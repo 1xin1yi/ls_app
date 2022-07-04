@@ -14,6 +14,7 @@
 
 2.将ls_graduation_design文件夹在vs code打开，在终端运行npm run dev。
 
+
 项目截图
 
 ![5037e7bae2b0cfef06e75425d6a34a7](https://user-images.githubusercontent.com/86288299/177077906-6f3ec5ff-ccdc-4b69-8d3f-a2dc6fbb75c3.png)
